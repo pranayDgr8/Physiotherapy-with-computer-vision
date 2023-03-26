@@ -1,7 +1,11 @@
 # Physiotherapy-with-computer-vision
 A computer vision based Physiotherapy guide with timer and exercise intructions
 
-https://drive.google.com/file/d/1YOWsGDrFTOX2FNC878LxKK_yvdmrMwhA/view?usp=sharing
+
+
+https://drive.google.com/file/d/10JgPiWW3MLEetZyRZ8J66pspCIqPwsfo/view?usp=sharing
+
+
 
 
 
